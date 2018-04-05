@@ -1,0 +1,33 @@
+ul { /*helps align the tabs*/
+    list-style-type:none;
+    overflow: hidden; 
+    } 
+    .button { /*styling the tabs*/
+    float: left;
+    display: inline-block;
+    background-color: #BEC3C7; /* lavendar */
+    width: 33%;
+    height: 45px;
+    text-align: center;
+    }
+    a.navigation { /*styling the tabs*/
+         color: #50522B;
+         font-weight:bold;
+         font-size: 120%;
+         text-decoration: none;
+         }
+#currentPage { /*makes the current page's tab be highlighted */
+  background-color: black;
+  color: white;
+}
+#welcome{
+	float: left;
+	font-size: 200%;
+	text-align: center;
+}
+h1, h2 {
+	text-align: center;
+}
+#eventInfo {
+
+}
